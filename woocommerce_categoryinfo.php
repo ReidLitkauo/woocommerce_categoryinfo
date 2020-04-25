@@ -1,11 +1,10 @@
 <?php
 /**
- * Plugin Name: mine
- * Plugin URI: localhost/mine
- * Description: The very first plugin that I have ever created.
+ * Plugin Name: woocommerce_categoryinfo
+ * Description: Add category information to WooCommerce webhook data.
  * Version: 1.0
- * Author: Your Name
- * Author URI: http://www.mywebsite.com
+ * Author: Reid Litkauo
+ * Author URI: https://reid.litkauo.com
  */
 
 function thisthingy($response, $object, $request) {
